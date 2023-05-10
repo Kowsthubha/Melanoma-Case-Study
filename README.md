@@ -38,7 +38,6 @@
 - TensorFlow
 - Keras
 - Python
-- Python 3
 - Pandas, Numpy, Matplotlib,
 - Augmentor
 

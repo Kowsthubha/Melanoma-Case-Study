@@ -1,17 +1,6 @@
 # Melanoma Case Study
 > The objective of this project is to create a Convolutional Neural Network (CNN) to classify a dermoscopic image of a skin lesion in 9 different classes. A dermoscopic image is a picture of the skin using a microscope and illumination.
 
-The data set contains the following diseases:
-
-	- Actinic keratosis
-	- Basal cell carcinoma
-	- Dermatofibroma
-	- Melanoma
-	- Nevus
-	- Pigmented benign keratosis
-	- Seborrheic keratosis
-	- Squamous cell carcinoma
-	- Vascular lesion
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -49,6 +38,7 @@ The data set contains the following diseases:
 - TensorFlow
 - Keras
 - Python
+- Python 3
 - Pandas, Numpy, Matplotlib,
 - Augmentor
 
